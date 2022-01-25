@@ -1,6 +1,10 @@
 # activities_BrenlouieBalendres
 
+
+
 ***** This activity is for the subject Computer Programming II ******
+
+
 
 Full Name: Bren louie Balendres
 
